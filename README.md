@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/vs2jonakdkx69xnq?svg=true)](https://ci.appveyor.com/project/Fredik66/json-schema-xk2p6)
+![example workflow]https://github.com/skudarnov-av/JSON_schema/actions/workflows/gradle.yml/badge.svg
